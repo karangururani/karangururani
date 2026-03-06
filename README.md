@@ -1,5 +1,10 @@
-<h1 align="center">Hi 👋, I'm Karan Gururani</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h1> Hi, I'm Karan Gururani</h1>
+
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&center=true&vCenter=true&random=false&width=600&height=50&lines=Full+Stack+Developer+%7C+Engineering+Student;Reduced+Server+Costs+by+35%25;Top+5%25+HackerRank+%7C+5-Star+Ratings;Building+Scalable%2C+High-Performance+Solutions" alt="Typing SVG" />
+
+---
+
+
 
 - 🌱 I’m currently learning **frontend development**
 
