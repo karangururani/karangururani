@@ -10,7 +10,7 @@
 
 - 📫 How to reach me **karangururani@gmail.com**
 
-- 🎯 MY portfolio <a herf=https://karangururani.vercel.app/>
+- 🌐 Portfolio: <a href="https://karangururani.vercel.app/" target="_blank">karangururani.vercel.app</a>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
